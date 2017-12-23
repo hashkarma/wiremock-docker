@@ -1,0 +1,25 @@
+{
+      "request": {
+                "method": "GET",
+                "urlPattern": "/product/p0001"
+                  },
+      "response": {
+                  "status": 200,
+                  "jsonBody": {
+                               "_id" : "p0001",
+                               "product_display_name" : "Brother - MFC-J4320DW Wireless All-In-One Printer - Black/Gray",
+                               "category_ids" : "pcmcat247400050001",
+                               "is_active" : true,
+                               "on_sale" : true,
+                               "upc" : "012502637677",
+                               "mpn" : "MFC-J4320DW",
+                               "manufacturer" : "Brother",
+                               "product_short_description" : "4-in-1 functionalityBuilt-in wireless7",
+                               "skuname": "value",
+                               "skuList": [1, 2, 3]
+                              },
+                  "headers": {
+                               "Content-Type": "application/json"
+                             }
+                   }
+}
