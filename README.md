@@ -6,7 +6,7 @@ These contracts can be consumed by UI/Microservices in-case actual service is no
 - This service will be hosted to cloud/local and an endpoint would get exposed to developers to get it consumed.
 - Developers can directly call the wiremock service to consume the wiremock contracts. This will also be useful to create integration testing for microservices.
 - Copy your mock contracts to the mappings folder. Some examples has been given in the same folder.
-- As you soon as you commit the code, it will be deployed to cloud/local and you can access the contracts by hitting URL pattern for e.g:  http://35.196.25.142/product/p0001
+- As you soon as you commit the code, it will be deployed to cloud/local and you can access the contracts by hitting URL pattern for e.g:  http://127.0.0.1/product/p0001
 
 # Application-SetUp
 
